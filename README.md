@@ -1,7 +1,10 @@
 <h1 align="center">
   <strong>Solving problems in Leetcode</strong>
 </h1>
->
+
+## Problems Solved
+
+- Running Sum of 1d Array
 
 ## 🧰 Tools
 
